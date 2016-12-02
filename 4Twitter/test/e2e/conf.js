@@ -7,7 +7,7 @@ exports.config = {
 
   suites: {
     specs:['specs/signin.spec.js',
-    'specs/deletetweet.spec.js']
+    'specs/search.spec.js']
   },
 
   jasmineNodeOpts: {
